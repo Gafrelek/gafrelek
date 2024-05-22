@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Gregor</h1>
 <h3 align="center">A frontend developer from Poland living in Sweden</h3>
 
@@ -20,5 +18,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gafrelek&show_icons=true&locale=en" alt="gafrelek" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gafrelek&" alt="gafrelek" /></p>
-- ⚡ Fun fact: ...
--->
